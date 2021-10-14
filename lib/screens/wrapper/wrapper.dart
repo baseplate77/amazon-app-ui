@@ -1,6 +1,7 @@
-import 'package:amazonui/screens/home_screen/home_screen.dart';
-import 'package:amazonui/screens/nav_screen/nav_screen.dart';
 import 'package:flutter/material.dart';
+
+import '../home_screen/home_screen.dart';
+import '../menu_screen/menu_screen.dart';
 
 class Wrapper extends StatefulWidget {
   const Wrapper({Key? key}) : super(key: key);
@@ -91,7 +92,7 @@ class _WrapperState extends State<Wrapper> with SingleTickerProviderStateMixin {
           Positioned.fill(
             child: Container(
               color: Colors.white60,
-              child: NavScreen(),
+              child: MenuScreen(),
             ),
           ),
           ScaleTransition(

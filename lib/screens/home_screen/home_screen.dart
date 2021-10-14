@@ -3,7 +3,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 import 'widget/bottom_bar.dart';
-import 'widget/headWidget.dart';
+import 'widget/head_widget.dart';
 import 'widget/popular_products.dart';
 
 class HomeScreen extends StatelessWidget {

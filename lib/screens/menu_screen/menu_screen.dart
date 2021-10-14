@@ -1,8 +1,8 @@
 import 'package:amazonui/constants.dart';
 import 'package:flutter/material.dart';
 
-class NavScreen extends StatelessWidget {
-  const NavScreen({Key? key}) : super(key: key);
+class MenuScreen extends StatelessWidget {
+  const MenuScreen({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

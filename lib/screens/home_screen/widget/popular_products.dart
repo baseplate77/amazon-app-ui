@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 
 import '../../../constants.dart';
-import '../product.dart';
+import '../product_data.dart';
 import 'dot_indicator.dart';
 
 class PopularProduct extends StatelessWidget {
