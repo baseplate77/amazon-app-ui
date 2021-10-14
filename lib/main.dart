@@ -1,4 +1,4 @@
-import 'package:amazonui/screens/wrapper.dart';
+import 'package:amazonui/screens/wrapper/wrapper.dart';
 import 'package:flutter/material.dart';
 
 void main() {
